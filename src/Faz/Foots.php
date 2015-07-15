@@ -9,5 +9,8 @@ namespace Faz;
  */
 class Foots
 {
+	public function onlyDevelopBranch()
+	{
 
+	}
 } 
