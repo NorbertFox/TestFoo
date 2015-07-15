@@ -1,0 +1,12 @@
+{
+    "name": "NorbertFox/TestFoo",
+    "description": "Testing Repo",
+    "require": {
+        "illuminate/config": "5.1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Facility\\": "src"
+        }
+    }
+}
