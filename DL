@@ -1,7 +1,35 @@
 Ein Code oder Kode, deutsche Aussprache [koːt],[1] ist eine Abbildungsvorschrift, die jedem Zeichen eines Zeichenvorrats (Urbildmenge) eindeutig ein Zeichen oder eine Zeichenfolge aus einem möglicherweise anderen Zeichenvorrat (Bildmenge) zuordnet.[2] Beispielsweise stellt der Morsecode eine Beziehung zwischen Buchstaben und einer Abfolge kurzer und langer Tonsignale (und umgekehrt) her.
 
+<<<<<<< HEAD
+Skip to content
+This repository  
+Pull requests
+Issues
+Gist
+ @TobyMaxham
+ Unwatch 1
+  Star 0
+ Fork 1TobyMaxham/TestFoo
+forked from NorbertFox/TestFoo
+TestFoo/    or cancel
+     
+ Edit file   Preview changes
+
+1
+2
+@TobyMaxham
+Commit changes
+
+
+  Commit directly to the OneNewBranch branch
+  Create a new branch for this commit and start a pull request. Learn more about pull requests.
+Commit changes  Cancel
+Status API Training Shop Blog About Help
+© 2015 GitHub, Inc. Terms Privacy Security Contact
+=======
 In der Kommunikationswissenschaft bezeichnet ein Code im weitesten Sinne eine Sprache. Jegliche Kommunikation beruht auf dem Austausch von Informationen, die vom Sender nach einem bestimmten Code erzeugt werden und die der Empfänger gemäß demselben Code interpretiert.
 
 Elektronisch übermittelte oder gespeicherte Daten bestehen zum Beispiel aus einer langen Reihe von Nullen und Einsen (Bits), deren Kombination als Ziffern, Zeichen und/oder Buchstaben (z. B. 11000001 = 'A') festgelegt sind. In einem anderen Code könnte dieselbe Bitkombination z. B. die Zahl 193 bedeuten. Auch für andere Arten von Daten, z. B. Messwerte oder die Nukleinbasen in DNA-Strängen ist in Codes festgelegt, welche Erscheinungsformen was bedeuten.
 
 In der Kodierungstheorie nennt man die Elemente, aus denen ein Code besteht, „Codewörter“, die Symbole aus denen die Codewörter bestehen, bilden ein „Alphabet“.[3]
+>>>>>>> master
