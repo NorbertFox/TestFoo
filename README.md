@@ -4,6 +4,6 @@ A shared Repository with [NorbertFox](https://github.com/NorbertFox) and [TobyMa
 This Repository was created for the following tests:
 * Fork
 * Pull Request
-* Branches
 * Tags
+* Branches
 * Composer autoloading
