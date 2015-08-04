@@ -1,1 +1,5 @@
-class Coz{}
+<?php
+class Coz
+{
+  // Nothing
+}
